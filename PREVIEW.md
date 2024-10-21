@@ -4,66 +4,66 @@ Welcome to **StockSmart**, an advanced inventory management system designed to s
 
 ## Landing Page
 
-![Landing Page](./screenshots/landing-page.png)
+<img src="./Screenshots/Screenshot (30).png" alt="Landing Page" style="max-width: 100%; height: auto;"/>
 
 The landing page welcomes users to the StockSmart platform with a brief introduction to its features and services.
 
 ## Sign-in Page
 
-![Sign-in Page](./screenshots/Screenshot (30).png)
+<img src="./Screenshots/Screenshot (31).png" alt="Sign-in Page" style="max-width: 100%; height: auto;"/>
 
 Users can securely log into their account using their registered email and password.
 
 ## Sign-up Page
 
-![Sign-up Page](./Screenshots/signup-page.png)
+<img src="./Screenshots/Screenshot (32).png" alt="Sign-up Page" style="max-width: 100%; height: auto;"/>
 
 New users can create an account by providing their basic details, including name, business details, and a secure password.
 
 ## Profile Page
 
-![Profile Page](./screenshots/profile-page.png)
+<img src="./Screenshots/Screenshot (33).png" alt="Profile Page" style="max-width: 100%; height: auto;"/>
 
 The profile page allows users to view and update their personal and business information.
 
 ## Notification Page
 
-![Notification Page](./screenshots/notification-page.png)
+<img src="./Screenshots/Screenshot (34).png" alt="Notification Page" style="max-width: 100%; height: auto;"/>
 
 Users receive important notifications regarding their inventory, sales, and system updates here.
 
 ## Dashboard
 
-![Dashboard Overview](./screenshots/dashboard-overview.png)
-![Dashboard Sales](./screenshots/dashboard-sales.png)
-![Dashboard Stock Levels](./screenshots/dashboard-stock-levels.png)
+<img src="./Screenshots/Screenshot (41).png" alt="Dashboard Overview" style="max-width: 100%; height: auto;"/>
+<img src="./Screenshots/Screenshot (42).png" alt="Dashboard Sales" style="max-width: 100%; height: auto;"/>
+<img src="./Screenshots/Screenshot (43).png" alt="Dashboard Stock Levels" style="max-width: 100%; height: auto;"/>
 
 The central hub for all user activities. The dashboard provides an overview of inventory levels, sales performance, and pending tasks, including visual representations of sales and stock levels.
 
 ## Inventory Management
 
-![Inventory Categories](./screenshots/inventory-categories.png)
-![Inventory Products](./screenshots/inventory-products.png)
+<img src="./Screenshots/Screenshot (35).png" alt="Inventory Categories" style="max-width: 100%; height: auto;"/>
+<img src="./Screenshots/Screenshot (44).png" alt="Inventory Products" style="max-width: 100%; height: auto;"/>
 
 Manage your product categories, brands, and items. The inventory section offers easy controls for adding, editing, and tracking stock levels.
 
 ## Sales Management
 
-![Sales Page](./screenshots/sales-page.png)
+<img src="./Screenshots/Screenshot (40).png" alt="Sales Page" style="max-width: 100%; height: auto;"/>
 
 Monitor and manage daily, weekly, and monthly sales performance through this interface.
 
 ## Reports Page
 
-![Reports Overview](./screenshots/reports-overview.png)
-![Reports Analysis](./screenshots/reports-analysis.png)
-![Reports Predictions](./screenshots/reports-predictions.png)
+<img src="./Screenshots/Screenshot (37).png" alt="Reports Overview" style="max-width: 100%; height: auto;"/>
+<img src="./Screenshots/Screenshot (38).png" alt="Reports Analysis" style="max-width: 100%; height: auto;"/>
+<img src="./Screenshots/Screenshot (39).png" alt="Reports Predictions" style="max-width: 100%; height: auto;"/>
 
 The reports section offers detailed analysis powered by machine learning, helping users forecast product demand and optimize inventory management.
 
 ## Billing Page
 
-![Billing Page](./screenshots/billing-page.png)
+<img src="./Screenshots/Screenshot (36).png" alt="Billing Page" style="max-width: 100%; height: auto;"/>
 
 Generate professional invoices for completed sales. The system automatically updates inventory and sales data when a bill is generated.
 
