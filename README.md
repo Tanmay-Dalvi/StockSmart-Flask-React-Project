@@ -38,7 +38,7 @@ Whether you're managing a small business or a large-scale operation, StockSmart 
 - Python Flask for the server-side logic and API management.
 <span style="display: flex; align-items: center;">
     <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="30"/>
-    <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="Python" width="30"/>
+    <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="Python" width="30" style="filter: invert(1);"/>
 </span>
 
 **Database**:  
