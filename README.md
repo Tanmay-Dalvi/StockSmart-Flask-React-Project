@@ -35,10 +35,10 @@ Whether you're managing a small business or a large-scale operation, StockSmart 
 </span>
 
 **Backend**:  
-- Python (Flask or Django) for the server-side logic and API management.
+- Python Flask for the server-side logic and API management.
 <span style="display: flex; align-items: center;">
     <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="30"/>
-    <img src="https://www.svgrepo.com/show/373554/django.svg" alt="Python" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Flask_logo.png" alt="Python" width="30"/>
 </span>
 
 **Database**:  
