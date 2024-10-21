@@ -16,7 +16,7 @@ Users can securely log into their account using their registered email and passw
 
 ## Sign-up Page
 
-![Sign-up Page](./screenshots/signup-page.png)
+![Sign-up Page](./Screenshots/signup-page.png)
 
 New users can create an account by providing their basic details, including name, business details, and a secure password.
 
