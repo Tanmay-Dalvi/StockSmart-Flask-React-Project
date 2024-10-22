@@ -1,0 +1,11 @@
+_id,product,brand,category,cost_price,selling_price,quantity,vendor.name,vendor.phone,vendor.address,user_id,product_id
+6706a868e6e3d1a3a43277aa,iPhone 15,Apple,Mobile,90000,110000,8,Apple Authorized Dealer	,9876543210,"123 Apple Lane, Mumbai",67017805a14efd90dd848453,6706a868e6e3d1a3a43277a9
+6706a89ae6e3d1a3a43277ac,Galaxy Tab S8	,Samsung	,Tablet,55000,65000,37,Samsung Electronics	,9123456789,"456 Samsung Street, Delhi",67017805a14efd90dd848453,6706a89ae6e3d1a3a43277ab
+6706a8c7e6e3d1a3a43277ae,MacBook Air M1	,Apple,Laptop,80000,95000,25,Apple Premium Reseller	,9988776655,"789 Apple Blvd, Bangalore",67017805a14efd90dd848453,6706a8c7e6e3d1a3a43277ad
+6706a8fae6e3d1a3a43277b0,OnePlus 10 Pro	,OnePlus,Mobile,55000,65000,31,OnePlus India	,9988554433,"321 OnePlus Road, Pune",67017805a14efd90dd848453,6706a8fae6e3d1a3a43277af
+6706a930e6e3d1a3a43277b2,Dell Inspiron 15	,Dell,Laptop,50000,65000,25,Dell Direct	,9871234567,"654 Dell Park, Kolkata",67017805a14efd90dd848453,6706a930e6e3d1a3a43277b1
+6706a968e6e3d1a3a43277b4,Galaxy Buds Pro	,Samsung,Headphones,15000,18000,41,Samsung Accessories Shop	,9988665544,"321 Samsung Avenue, Chennai",67017805a14efd90dd848453,6706a968e6e3d1a3a43277b3
+6706a9a6e6e3d1a3a43277b6,Lenovo Yoga Slim 7	,Lenovo,Laptop,75000,90000,13,Lenovo Exclusive Dealer	,9665544332	,"789 Lenovo Lane, Hyderabad",67017805a14efd90dd848453,6706a9a6e6e3d1a3a43277b5
+6706a9cce6e3d1a3a43277b8,Redmi Note 11 Pro	,Xiaomi,Mobile,20000,25000,40,Xiaomi Authorized Store	,9122345678,"654 Redmi Road, Jaipur",67017805a14efd90dd848453,6706a9cce6e3d1a3a43277b7
+6706aa00e6e3d1a3a43277ba,iPad Air	,Apple,Tablet	,50000,60000,25,Apple Retail Partner	,9879988779	,"987 Apple Road, Ahmedabad",67017805a14efd90dd848453,6706aa00e6e3d1a3a43277b9
+6706aa29e6e3d1a3a43277bc,JBL Tune 125TWS	,JBL	,Headphones,8000,10000,59,JBL India Distributors	,9000123456,"321 JBL Circle, Surat",67017805a14efd90dd848453,6706aa29e6e3d1a3a43277bb
