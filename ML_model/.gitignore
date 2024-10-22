@@ -27,9 +27,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Streamlit
-.streamlit/secrets.toml
-
 # IDEs and editors
 .idea/
 .vscode/
