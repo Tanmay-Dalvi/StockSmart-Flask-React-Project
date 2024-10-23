@@ -10,10 +10,6 @@ A machine learning-powered inventory and sales analytics dashboard built with St
 - 💹 Revenue and profit tracking
 - 📉 Interactive charts and graphs
 
-## 🔗 Live Demo
-
-Visit [https://stocksmart-analytics.streamlit.app](https://stocksmart-analytics.streamlit.app) to see the project in action!
-
 ## 🚀 Getting Started
 
 ### Prerequisites
